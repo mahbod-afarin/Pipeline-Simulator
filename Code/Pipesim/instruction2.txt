@@ -1,0 +1,9 @@
+ADD r1 r2 r3
+SW r1 r2
+LW r7 r2
+ADD r5 r7 r1
+LW r8 r2
+SW r7 r8
+ADD r8 r8 r2
+LW r9 r8
+SW r9 r8

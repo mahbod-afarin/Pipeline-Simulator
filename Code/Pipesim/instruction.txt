@@ -1,0 +1,7 @@
+ADD r1 r2 r3
+SUB r2 r3 r4
+MULT r3 r1 r5
+DIV r4 r3 r6
+LW r5 r4
+SW r5 r7
+BNEZ r7 r8
